@@ -12,6 +12,13 @@ repositories {
     mavenCentral()
 }
 
+idea {
+    project {
+        jdkName = '1.8'
+        languageLevel = '1.8'
+    }
+}
+
 dependencies {
     compile group: 'org.apache.spark', name: 'spark-core_2.10', version: '2.0.0'
     compile group: 'org.apache.spark', name: 'spark-sql_2.10', version: '2.1.0'
@@ -21,10 +28,15 @@ dependencies {
 }
 
 jar {
+    zip64 true
+    archiveName = "Expeditions-spark.jar"
+    from {
+        configurations.compile.collect {
+            it.isDirectory() ? it : zipTree(it)
+        }
+    }
     manifest {
         attributes 'Main-Class': 'Expeditions'
     }
-    from {
-        configurations.runtimeClasspath.collect { it.isDirectory() ? it : zipTree(it) }
-    }
+    exclude 'META-INF/*.RSA', 'META-INF/*.SF','META-INF/*.DSA'
 }
