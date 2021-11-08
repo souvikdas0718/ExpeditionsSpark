@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="09cbed36-45d6-4a34-9e4e-9f16168a20e9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/output/minerals.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output/minerals.csv" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="20YR7uPJGdZ0ezPkV45hw1mwAvf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GitIgnore" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.ExpeditionsTest">
+    <configuration name="Expeditions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Expeditions" />
+      <module name="Kinaxis.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExpeditionsTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ExpeditionsTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ExpeditionsTest.expeditionValidTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ExpeditionsTest.expeditionValidTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ExpeditionsTest.verifyFailureTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ExpeditionsTest.verifyFailureTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in 'Kinaxis.test'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests *" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.ExpeditionsTest" />
+        <item itemvalue="Application.Expeditions" />
+        <item itemvalue="Gradle.Tests in 'Kinaxis.test'" />
+        <item itemvalue="Gradle.ExpeditionsTest.expeditionValidTest" />
+        <item itemvalue="Gradle.ExpeditionsTest.verifyFailureTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09cbed36-45d6-4a34-9e4e-9f16168a20e9" name="Default Changelist" comment="" />
+      <created>1636219370266</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636219370266</updated>
+      <workItem from="1636219373839" duration="680000" />
+      <workItem from="1636220954759" duration="16245000" />
+      <workItem from="1636397648325" duration="2085000" />
+      <workItem from="1636401260831" duration="2692000" />
+    </task>
+    <task id="LOCAL-00001" summary="Adding depencdency file">
+      <created>1636402547596</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1636402547596</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adding depencdency file">
+      <created>1636403443798</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1636403443798</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Adding depencdency file">
+      <created>1636404258966</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1636404258966</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding depencdency file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding depencdency file" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2436" y="85" key="#Expeditions" timestamp="1636399023635">
+      <screen x="1792" y="-104" width="1920" height="1055" />
+    </state>
+    <state x="2436" y="85" key="#Expeditions/1792.-104.1920.1055/0.25.1792.1095@1792.-104.1920.1055" timestamp="1636399023635" />
+    <state x="496" y="255" key="#Project_Structure" timestamp="1636401135931">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="496" y="255" key="#Project_Structure/0.25.1792.1095@0.25.1792.1095" timestamp="1636401135931" />
+    <state x="1892" y="-4" width="1720" height="855" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1636388009188">
+      <screen x="1792" y="-104" width="1920" height="1055" />
+    </state>
+    <state x="1892" y="-4" width="1720" height="855" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/1792.-104.1920.1055/0.25.1792.1095@1792.-104.1920.1055" timestamp="1636388009188" />
+    <state x="517" y="157" key="CommitChangelistDialog2" timestamp="1636404258830">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="517" y="157" key="CommitChangelistDialog2/0.25.1792.1095@0.25.1792.1095" timestamp="1636404258830" />
+    <state x="2346" y="23" key="CommitChangelistDialog2/1792.-104.1920.1055/0.25.1792.1095@1792.-104.1920.1055" timestamp="1636396178663" />
+    <state width="1750" height="239" key="GridCell.Tab.0.bottom" timestamp="1636403416590">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1750" height="239" key="GridCell.Tab.0.bottom/0.25.1792.1095@0.25.1792.1095" timestamp="1636403416590" />
+    <state width="1878" height="275" key="GridCell.Tab.0.bottom/1792.-104.1920.1055/0.25.1792.1095@1792.-104.1920.1055" timestamp="1636399216512" />
+    <state width="1750" height="239" key="GridCell.Tab.0.center" timestamp="1636403416589">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1750" height="239" key="GridCell.Tab.0.center/0.25.1792.1095@0.25.1792.1095" timestamp="1636403416589" />
+    <state width="1878" height="275" key="GridCell.Tab.0.center/1792.-104.1920.1055/0.25.1792.1095@1792.-104.1920.1055" timestamp="1636399216510" />
+    <state width="1750" height="239" key="GridCell.Tab.0.left" timestamp="1636403416588">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1750" height="239" key="GridCell.Tab.0.left/0.25.1792.1095@0.25.1792.1095" timestamp="1636403416588" />
+    <state width="1878" height="275" key="GridCell.Tab.0.left/1792.-104.1920.1055/0.25.1792.1095@1792.-104.1920.1055" timestamp="1636399216510" />
+    <state width="1750" height="239" key="GridCell.Tab.0.right" timestamp="1636403416589">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1750" height="239" key="GridCell.Tab.0.right/0.25.1792.1095@0.25.1792.1095" timestamp="1636403416589" />
+    <state width="1878" height="275" key="GridCell.Tab.0.right/1792.-104.1920.1055/0.25.1792.1095@1792.-104.1920.1055" timestamp="1636399216511" />
+    <state width="1878" height="354" key="GridCell.Tab.1.bottom" timestamp="1636386792298">
+      <screen x="1792" y="-104" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="354" key="GridCell.Tab.1.bottom/1792.-104.1920.1055/0.25.1792.1095@1792.-104.1920.1055" timestamp="1636386792298" />
+    <state width="1878" height="354" key="GridCell.Tab.1.center" timestamp="1636386792297">
+      <screen x="1792" y="-104" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="354" key="GridCell.Tab.1.center/1792.-104.1920.1055/0.25.1792.1095@1792.-104.1920.1055" timestamp="1636386792297" />
+    <state width="1878" height="354" key="GridCell.Tab.1.left" timestamp="1636386792297">
+      <screen x="1792" y="-104" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="354" key="GridCell.Tab.1.left/1792.-104.1920.1055/0.25.1792.1095@1792.-104.1920.1055" timestamp="1636386792297" />
+    <state width="1878" height="354" key="GridCell.Tab.1.right" timestamp="1636386792297">
+      <screen x="1792" y="-104" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="354" key="GridCell.Tab.1.right/1792.-104.1920.1055/0.25.1792.1095@1792.-104.1920.1055" timestamp="1636386792297" />
+    <state x="179" y="140" key="MergeDialog" timestamp="1636401099459">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="179" y="140" key="MergeDialog/0.25.1792.1095@0.25.1792.1095" timestamp="1636401099459" />
+    <state x="608" y="312" key="MultipleFileMergeDialog" timestamp="1636401099522">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="608" y="312" key="MultipleFileMergeDialog/0.25.1792.1095@0.25.1792.1095" timestamp="1636401099522" />
+    <state x="438" y="194" key="SettingsEditor" timestamp="1636401289842">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="438" y="194" key="SettingsEditor/0.25.1792.1095@0.25.1792.1095" timestamp="1636401289842" />
+    <state x="2261" y="59" key="SettingsEditor/1792.-104.1920.1055/0.25.1792.1095@1792.-104.1920.1055" timestamp="1636398857442" />
+    <state x="496" y="318" key="Vcs.Push.Dialog.v2" timestamp="1636404261433">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="496" y="318" key="Vcs.Push.Dialog.v2/0.25.1792.1095@0.25.1792.1095" timestamp="1636404261433" />
+    <state x="682" y="513" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1636401071590">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="682" y="513" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1792.1095@0.25.1792.1095" timestamp="1636401071590" />
+    <state x="2490" y="180" key="extract.method.dialog" timestamp="1636385339466">
+      <screen x="1792" y="-104" width="1920" height="1055" />
+    </state>
+    <state x="2490" y="180" key="extract.method.dialog/1792.-104.1920.1055/0.25.1792.1095@1792.-104.1920.1055" timestamp="1636385339466" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Expeditions.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Expeditions.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Expeditions.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Expeditions.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Remote">
+        <watch expression="expeditionTrip" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
